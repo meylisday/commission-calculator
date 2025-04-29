@@ -2,4 +2,3 @@ vendor
 .git
 .phpunit.result.cache
 .idea
-bin
